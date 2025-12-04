@@ -16,6 +16,7 @@ I’m passionate about solving real-world problems using **Python, Power BI, SQL
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/bf3b2aaf-7393-4c7d-b103-52db2ec2f7b8" />
 
 
 ### 📊 Data Visualization
