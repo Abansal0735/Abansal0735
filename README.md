@@ -1,4 +1,6 @@
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&width=800&height=45&lines=%F0%9F%9A%80+Data+Analyst+%2F+%2F+%2F+%3B%F0%9F%94%8D+!%3B%F0%9F%8E%A8+%3B%F0%9F%A4%A8+%2F+CI%2FCD+%2F+%2F+%3B%F0%9F%93%A6+%3B%F0%9F%A7%A0+%3B%F0%9F%92%A1+Code+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad.%3B%F0%9F%93%8A+In+God+we+trust%2C+all+others+bring+data.%3B%F0%9F%94%97+Transforming+ideas+into+scalable+solutions.">
+</h1>
 <h1 align='center'>👋 Hi there, I'm Abhishek Bansal</h1>
 
 ### 🚀 Data Analysist
