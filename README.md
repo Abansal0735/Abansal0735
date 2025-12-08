@@ -1,5 +1,12 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&width=800&height=45&lines=%F0%9F%9A%80+Data+Analyst+%2F+%2F+%2F+%3B%F0%9F%94%8D+Transforming+ideas+into+scalable+solutions.">
+  <h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=30&duration=3500&color=0AFFD1&center=true&vCenter=true&width=900&lines=%3E+Abhishek+Bansal;%3E+Data+Analyst;%3E+SQL+%7C+Python+%7C+Power+BI;%3E+Decoding+Data+For+Business+Growth">
+</h1>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1000&color=D4AF37&center=true&vCenter=true&width=900&lines=Abhishek+Bansal;Data+Analyst;Analytics+%7C+Insights+%7C+Strategy">
+</h1>
+
 </h1>
 <h1 align='center'>👋 Hi there, I'm Abhishek Bansal</h1>
 
@@ -25,6 +32,24 @@ I’m passionate about solving real-world problems using **Python, Power BI, SQL
 ![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge&logo=python&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?style=for-the-badge&logo=power-bi&logoColor=white)
+
+## 📈 GitHub Stats
+
+
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abansal0735&show_icons=true&theme=radical" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Abansal0735&theme=radical" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abansal0735&theme=radical&card_width=500" height="220px"/>
+</p>
+
+
 
 
 ---
