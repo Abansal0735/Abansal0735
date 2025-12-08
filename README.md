@@ -4,7 +4,7 @@
 </h1>
 
 
-### 🚀 Data Analysist
+### 🚀 Data Analyst
 
 
 I’m passionate about solving real-world problems using **Python, Power BI, SQL, Numpy, Pandas**. I'm constantly learning, building, and contributing to projects that make an impact.
